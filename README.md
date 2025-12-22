@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This is a modern, interactive, and responsive 
 
 ## 🌐 Live Demo
 
-[View Live Portfolio](#)  
+[View Live Portfolio](https://rupesh-portfolio-ultp.onrender.com/)  
 
 ---
 
