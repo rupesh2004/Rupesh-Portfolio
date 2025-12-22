@@ -19,7 +19,6 @@ Welcome to my personal portfolio! This is a modern, interactive, and responsive 
 - **Tools:** Git, GitHub, Figma, VS Code
 
 ---
-
 ## 📂 Sections Overview
 
 ### 1. Home
